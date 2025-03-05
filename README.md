@@ -50,7 +50,7 @@
 
 <!-- [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=areedev&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=areedev) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=areedev&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=areedev) -->
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=areedev&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=areedev&theme=github&count_private=true)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=areedev&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=areedev&theme=github&count_private=true)
 
 <div align="center">
   <!-- <a href="https://badges.pufler.dev">
