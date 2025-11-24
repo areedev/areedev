@@ -76,6 +76,6 @@
 
 ## Reach out to me
 - Email: areejsz124@gmail.com
-- Linkedin: https://www.linkedin.com/in/noah-miles-91536a369/
+- Linkedin: ![Noah Miles](https://www.linkedin.com/in/noah-miles-91536a369)
 
 <!-- ![Snake animation](https://github.com/areedev/areedev/grid-snake.svg) -->
