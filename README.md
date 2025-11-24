@@ -1,13 +1,11 @@
 # Skills
 <p align="center">
-  <img alt="Golang" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-E31A31?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=gold" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/-C++-F343BF?style=flat-square&logo=C++&logoColor=white" />
-  <img alt="CoffeeScript" src="https://img.shields.io/badge/-CoffeeScript-2F2625?style=for&logo=coffeescript&logoColor=white" />
-
+  <img alt="Golang" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-E31A31?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/-Node-07C146?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -39,14 +37,12 @@
 
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
   <img alt="Ruby Gems" src="https://img.shields.io/badge/-Ruby_Gems-CC0000?style=for&logo=rubygems&logoColor=white" />
-
 
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=for&logo=vim&logoColor=white" />
   <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=for&logo=gulp&logoColor=white" />
@@ -65,7 +61,6 @@
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=for&logo=eslint&logoColor=white" />
   <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-8669AE?style=for&logo=circleci&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=for&logo=swagger&logoColor=white" />
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for&logo=rabbitmq&logoColor=white" />
   <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=for&logo=material-ui&logoColor=white" />
   <img alt="AzureDevOps" src="https://img.shields.io/badge/-AzureDevOps-0078D7?style=for&logo=azuredevops&logoColor=white" />
 </p>
@@ -78,5 +73,9 @@
 - FullStack Software Engineer @ Liberte.ltd (Japan) Jan 2024 - Present
 - FullStack Frontend Developer @ BlueNotary (USA) Sep 2022 - Nov 2023
 - FullStack Developer @ CICADA (New York, USA) Apr 2021 - Jul 2022
+
+## Reach out to me
+- Email: areejsz124@gmail.com
+- Linkedin: https://www.linkedin.com/in/noah-miles-91536a369/
 
 <!-- ![Snake animation](https://github.com/areedev/areedev/grid-snake.svg) -->
