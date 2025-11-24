@@ -85,7 +85,7 @@ Noah can help you structure your project to eliminate tight coupling and unneces
 - FullStack Developer @ CICADA (New York, USA) Apr 2021 - Jul 2022
 
 ## Reach out to me
-- Email: areejsz124@gmail.com
+- Email: bluestar90116@gmail.com
 - Linkedin: [Noah Miles](https://www.linkedin.com/in/noah-miles-91536a369)
 
 <!-- ![Snake animation](https://github.com/areedev/areedev/grid-snake.svg) -->
