@@ -1,4 +1,14 @@
-# Skills
+## JavaScript, Python and Flutter Software Engineer
+Noah has spent the past 15 years designing architectures for both web and mobile solutions. 
+His strongest work lies in creating clean, modular architectures for Flutter applications and Nest.js backends.
+
+All too often, applications start out strong but eventually struggle due to poor architectural decisions. 
+Estimates for even small features grow longer, and minor changes end up affecting far too many parts of the codebase.
+
+Noah can help you structure your project to eliminate tight coupling and unnecessary complexity, ensuring a scalable, maintainable foundation for every new feature.
+
+
+## Skills
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=gold" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -69,7 +79,7 @@
 
 <img height="150px" />
 
-# Experience
+## Experience
 - FullStack Software Engineer @ Liberte.ltd (Japan) Jan 2024 - Present
 - FullStack Frontend Developer @ BlueNotary (USA) Sep 2022 - Nov 2023
 - FullStack Developer @ CICADA (New York, USA) Apr 2021 - Jul 2022
