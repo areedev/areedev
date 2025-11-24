@@ -71,9 +71,7 @@
 </p>
 
 <img align="right" src="https://img.shields.io/github/followers/areedev?label=Follow&style=social" />
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=areedev&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&theme=merko&count_private=true" />
+
 <img height="150px" />
 
 # Experience
