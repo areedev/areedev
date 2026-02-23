@@ -84,6 +84,9 @@ Noah can help you structure your project to eliminate tight coupling and unneces
 - FullStack Frontend Developer @ BlueNotary (USA) Sep 2022 - Nov 2023
 - FullStack Developer @ CICADA (New York, USA) Apr 2021 - Jul 2022
 
+## Github Stats
+<img  src="https://github-readme-stats.vercel.app/api?username=Devang-25&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+
 ## Reach out to me
 - Email: bluestar90116@gmail.com
 - Linkedin: [Noah Miles](https://www.linkedin.com/in/noah-miles-91536a369)
