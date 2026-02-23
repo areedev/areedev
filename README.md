@@ -85,17 +85,8 @@ Noah can help you structure your project to eliminate tight coupling and unneces
 - FullStack Developer @ CICADA (New York, USA) Apr 2021 - Jul 2022
 
 ## Github Stats
-<img  src="https://github-readme-stats.vercel.app/api?username=areedev&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=areedev&theme=dark" width="48%" >
 <br>
-
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=areedev&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=onimur.onimur)
-</div>
 
 ## Reach out to me
 - Email: bluestar90116@gmail.com
