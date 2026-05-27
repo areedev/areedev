@@ -89,7 +89,7 @@ Noah can help you structure your project to eliminate tight coupling and unneces
 <br>
 
 ## Reach out to me
-- Email: bluestar90116@gmail.com
-- Linkedin: [Noah Miles](https://www.linkedin.com/in/noah-miles-91536a369)
+- Email: noahmiles.dev@gmail.com
+- Linkedin: [Noah Miles](https://www.linkedin.com/in/noah-miles-40bb9b401/)
 
 <!-- ![Snake animation](https://github.com/areedev/areedev/grid-snake.svg) -->
